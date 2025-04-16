@@ -117,6 +117,3 @@ class AdministradorTraficoSSL {
     }
   }
 }
-
-
-// vale
